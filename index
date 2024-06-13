@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Normas de Seguridad de la Agenda</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1, h2, h3 {
+            color: #2E86C1;
+        }
+        ul {
+            margin: 10px 0;
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Normas de Seguridad</h1>
+
+    <h2>1. Propósito</h2>
+    <p>El propósito de estas normas es asegurar la protección y la integridad de la información contenida en la agenda, así como garantizar que los datos estén disponibles para su uso adecuado por parte del usuario.</p>
+
+    <h2>2. Alcance</h2>
+    <p>Estas normas se aplican a todos los individuos que deseen utilizar la agenda</p>
+
+    <h2>3. Responsabilidades</h2>
+    <ul>
+        <li><strong>Usuarios:</strong> Cumplir con estas normas y reportar cualquier incidente de seguridad o vulnerabilidad.</li>
+    </ul>
+
+    <h2>4. Políticas Específicas</h2>
+
+    <h3>4.1. Acceso a la Agenda</h3>
+    <ul>
+        <li>Cualquier persona puede acceder a dicha agenda y sus funciones </li>
+    </ul>
+
+    <h3>4.2. Uso Adecuado de la Agenda</h3>
+    <ul>
+        <li>Los usuarios deberán utilizar la agenda para fines personales.</li>
+        <li>Está prohibido compartir la agenda o cualquier información contenida en ella con personas no autorizadas por el usuario.</li>
+    </ul>
+
+    <h3>4.3. Protección de Datos</h3>
+    <ul>
+        <li>Toda la información contenida en la agenda debe ser considerada privada.</li>
+    </ul>
+
+</body>
+</html>
